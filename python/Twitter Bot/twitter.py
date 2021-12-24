@@ -192,7 +192,7 @@ class twitter:
 
 
 
-ilkhesap = twitter("CanavarGundem","pas78k78")
+ilkhesap = twitter("USERNAME","PASSWORD")
 ilkhesap.login()
 ilkhesap.gettopics(10)
 ilkhesap.writetopics()
